@@ -51,6 +51,7 @@
         android:key="smart_charging_key"
         android:title="@string/smart_charging_title"
         android:summary="@string/smart_charging_summary" />
+
     <PreferenceScreen
         android:key="battery_charge_sound"
         android:title="@string/notification_battery_charge_level_title"
